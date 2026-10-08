@@ -1,7 +1,5 @@
 ## STEP 1: CREAR LA MATRIZ DE PUNTUACIONES
 
-setwd(readline("your folder?"))
-
 blossum50 <- read.table(file = "blossum50.txt")
 
 seq1 <- "BEAVTY"
